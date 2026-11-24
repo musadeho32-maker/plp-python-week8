@@ -1,0 +1,38 @@
+PERSONAL MINI-TOOLKIT PROJECT PLAN
+
+1. TOOLS
+
+Tool 1: Simple Calculator
+This tool allows users to add, subtract, multiply and divide two numbers.
+Concepts: variables, input, functions, conditionals, try/except and f-strings.
+
+Tool 2: To-Do List
+This tool allows users to add, view and remove tasks from a changing list.
+Concepts: lists, loops, conditionals, input and output.
+
+Tool 3: Number Guessing Game
+This tool generates a random number and allows the user to guess it.
+Concepts: loops, conditionals, variables, random numbers and input.
+
+2. MENU TEXT
+
+Welcome to Musa's Personal Mini-Toolkit!
+
+Choose a tool:
+1. Simple Calculator
+2. To-Do List
+3. Number Guessing Game
+4. Quit
+
+Enter your choice:
+
+3. CONCEPTS USED
+
+Variables: Store numbers, tasks and user choices.
+Input and Output: Collect information and display results.
+Conditionals: Make decisions based on user choices.
+Loops: Keep the menu running and repeat the guessing game.
+Lists: Store tasks that can be added and removed.
+Functions: Organize the program into reusable sections.
+Error Handling: Prevent invalid number input from crashing the program.
+F-strings: Display clear and friendly messages.
